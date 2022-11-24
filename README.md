@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @stephan-carvalho
+- 👀 I’m interested in learn
+- 🌱 I’m currently learning javascript
+- 📫 How to reach me stephancarvalho26@gmail.com
+- 🇧🇷  I’m Brasilian
